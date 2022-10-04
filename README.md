@@ -44,3 +44,4 @@ pnpm run
 * [Set up a modern web app by running one command](https://github.com/facebook/create-react-app)
 * [Setup a Monorepo with PNPM workspaces and speed it up with Nx!](https://blog.nrwl.io/setup-a-monorepo-with-pnpm-workspaces-and-speed-it-up-with-nx-bc5d97258a7e)
 * [How To Set Up a React Project with Create React App](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-create-react-app)
+* [Ant design](https://ant.design/docs/react/use-in-typescript)
