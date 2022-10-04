@@ -1,4 +1,4 @@
-# Create a front-end app with React with PNPM
+# Create a front-end app with React adn PNPM
 
 
 ## Requirements
