@@ -13,7 +13,7 @@
 
 ## Create react app
 ```bash
-pnpm create react-app pnpm-cra --template typescript
+pnpm create react-app pnpm-react-app --template typescript
 ```
 
 ## Install modules
