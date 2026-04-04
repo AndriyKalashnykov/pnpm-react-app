@@ -1,5 +1,7 @@
 # Create a front-end app with React adn PNPM
 
+[![CI](https://github.com/AndriyKalashnykov/pnpm-react-app/actions/workflows/ci.yml/badge.svg)](https://github.com/AndriyKalashnykov/pnpm-react-app/actions/workflows/ci.yml)
+[![Cleanup old workflow runs](https://github.com/AndriyKalashnykov/pnpm-react-app/actions/workflows/cleanup-runs.yml/badge.svg)](https://github.com/AndriyKalashnykov/pnpm-react-app/actions/workflows/cleanup-runs.yml)
 
 ## Requirements
 
